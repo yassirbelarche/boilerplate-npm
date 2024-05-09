@@ -1,6 +1,7 @@
 {
-	"author": "Kartikeya Yadav",
+	
 	"name": "fcc-learn-npm-package-json",
+	"author": "Kartikeya Yadav",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
