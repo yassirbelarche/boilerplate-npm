@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Shayla Brown",
 	"description": "A project that does something awesome",
+	"keywords": [ "freecodecamp", "boilerplate", "practice" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
