@@ -6,6 +6,10 @@
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
+	}, 
+	"author": "Kimzzy", 
+	"version" : "^4.14.0"
+	
 	},
 	"repository": {
 		"type": "git",
