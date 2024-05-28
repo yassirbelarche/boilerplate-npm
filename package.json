@@ -18,5 +18,6 @@
   "homepage": "https://github.com/freeCodeCamp/boilerplate-npm#readme",
   "version": "1.0.0",
   "author": "Favour",
+  "keywords": ["new", "backend"],
   "license": "ISC"
 }
