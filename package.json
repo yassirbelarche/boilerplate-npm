@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Mehmet Siddik UYGUROGLU",
+	"author": "MehmetSiddikUYGUROGLU",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
