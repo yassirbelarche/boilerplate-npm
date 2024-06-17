@@ -1,5 +1,6 @@
 {
 	"author": "Alberto Ojeda",
+	"description": "este es un trabajo de manera local",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
