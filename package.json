@@ -2,6 +2,7 @@
 	"author": "Alberto Ojeda",
 	"description": "este es un trabajo de manera local",
 	"name": "fcc-learn-npm-package-json",
+	"keywords": ["freeCodeCamp","trabajo","local"],
 	"dependencies": {
 		"express": "^4.19.2"
 	},
