@@ -8,6 +8,7 @@
 		"reboot"
 	],
 	"license": "vamos a trabajar",
+	"version": "1.2.1",
 	"dependencies": {
 		"express": "^4.19.2"
 	},
