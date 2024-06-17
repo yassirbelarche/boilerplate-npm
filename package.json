@@ -2,7 +2,7 @@
 	"author": "Alberto Ojeda",
 	"description": "este es un trabajo de manera local",
 	"name": "fcc-learn-npm-package-json",
-	"keywords": ["freecodecamp","freecodecamp","freeCodeCamp"],
+	"keywords": ["freecodecamp","ejemplo de manera local","reboot"],
 	"dependencies": {
 		"express": "^4.19.2"
 	},
