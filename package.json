@@ -7,6 +7,7 @@
 		"ejemplo de manera local",
 		"reboot"
 	],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.19.2"
 	},
