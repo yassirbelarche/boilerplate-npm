@@ -1,5 +1,6 @@
 {
 	"author": "Alberto Ojeda",
+	"description": "Resolucion del paso 2",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
