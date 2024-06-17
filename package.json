@@ -11,6 +11,7 @@
 	"version": "1.0.1",
 	"dependencies": {
 		"express": "^4.19.2"
+		"@freeCodeCamp/example": "1.1.0"
 	},
 	"main": "server.js",
 	"scripts": {
