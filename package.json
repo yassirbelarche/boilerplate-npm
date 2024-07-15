@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "foobar",
+	"license": "MIT",
 	"keywords": [ "descriptive", "related", "freecodecamp" ],
 	"description": "A project that does something awesome",
 	"dependencies": {
