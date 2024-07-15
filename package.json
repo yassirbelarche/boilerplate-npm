@@ -6,7 +6,8 @@
 	"keywords": [ "descriptive", "related", "freecodecamp" ],
 	"description": "A project that does something awesome",
 	"dependencies": {
-	  "express": "^4.14.0"
+	   "package-name": "version",
+  		"express": "1.1.0"
 	},
 	"main": "server.js",
 	"scripts": {
@@ -19,4 +20,5 @@
 	  "type": "git",
 	  "url": "https://idontknow/todo.git"
 	}
+	
   }
