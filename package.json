@@ -1,5 +1,5 @@
 {
-	"name": "fccBackEnd",
+	"name": "Free Code Camp Backend Certification",
 	"author":"Jacob Mason",
 	"dependencies": {
 		"express": "^4.14.0"
