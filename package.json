@@ -1,6 +1,7 @@
 {
-	"name": "fcc-learn-npm-package-json",
+	"name": "Exercise 1",
 	"author": "Pedro Ortega",
+	"Title": "Practice Json",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
