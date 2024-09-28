@@ -8,6 +8,7 @@
 		"start": "node server.js"
 	},
 	"repository": {
+		"author": "Mouli",
 		"type": "git",
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
 	}
